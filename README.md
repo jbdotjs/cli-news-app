@@ -1,8 +1,8 @@
 # cli-news-app
 
-## Simple python cli app for news
+# Simple python cli app for news
 
-# Usage:
+## Usage:
  
  Usage: python cli_app.py -country [country code] -category [category] -results [number of results]
 
@@ -20,7 +20,7 @@
 
 	-help		:	Shows this usage info
   
-APIs used:
+## APIs used:
 Both APIs are free.
 1. https://newsapi.org/ (API key required)
 2. https://shrtco.de/docs/ (No API key required)
