@@ -2,9 +2,12 @@
 
 # Simple python cli app for news
 
+Python version: 3.7.4
+Requirements: requests
+
 ## Usage:
  
- Usage: python cli_app.py -country [country code] -category [category] -results [number of results]
+ Usage: python app.py -country [country code] -category [category] -results [number of results]
 
 	Options:
 
