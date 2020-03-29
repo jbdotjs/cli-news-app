@@ -3,6 +3,7 @@
 # Simple python cli app for news
 
 Python version: 3.7.4
+
 Requirements: requests
 
 ## Usage:
